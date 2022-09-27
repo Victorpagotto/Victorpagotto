@@ -1,19 +1,30 @@
-Hi 👋 My name is Victor Pagotto
+Victor Pagotto
 ===============================
 
-Web developer
+Desenvolvedor Web.
 -------------
 
-Having the passion for the creative liberty coding gives me, I now prepare myself to become capable of full-stack development. As of known tools for achieving this, the list goes as: JavaScript, HTML, CSS, React, Node, SQL and Docker, besides some other tools used as complement to those ones, like Jest, Redux, Express and Sequelize.
+Having the passion for the creative liberty coding gives me, I now prepare myself to become capable of full-stack development. As of known tools for achieving this, in short version, the list goes as: JavaScript, HTML, CSS, React, Node, SQL and Docker, besides some other tools used as complement to those ones, like Jest, Redux, Express and Sequelize.
 
-* 🌍  I'm based in Ji-Paraná, RO, Brazil.
-* 🖥️  See my portfolio at [Victor Pagotto](http://victorpagotto.github.io/portfolio/)
-* ✉️  You can contact me at [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](http://victorpagotto.github.io/portfolio/)
-* 🧠  I'm learning Node and MySQL with Sequelize
-* ⚡  Looking for job oportunities.
+* Currently living in Ji-Paraná, RO, Brazil.
+* See my portfolio at [Victor Pagotto](http://victorpagotto.github.io/portfolio/)
+* You can contact me at [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
+* Currently working on [My Portfolio](http://victorpagotto.github.io/portfolio/)
+* Currently learning SQL through Node with Sequelize.
+* ⚡ Looking for job opportunities.
 
-### Skills
+===============================
+
+Apaixonado pela liberdade criativa que codar me dá, agora me preparo para ser capaz de desenvolver em full-stack. A lista resumida de ferramentas que conheço e possuo para isso, de forma resumida, é: JavaScript, HTML, CSS, React, Node, SQL e Docker, além de algumas outras ferramentas usadas como complemento, como Jest, Redux, Express e Sequelize.
+
+* Atualmente vivendo em Ji-Paraná, RO, Brasil.
+* Veja meu portfólio em [Victor Pagotto](http://victorpagotto.github.io/portfolio/)
+* Você pode me contatar com [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
+* Atualmente estou trabalhando em [meu portfólio](http://victorpagotto.github.io/portfolio/)
+* Atualmente aprendendo SQL através de Node com Sequelize.
+* ⚡ Procurando por oportunidades de trabalho.
+
+### Skills/Habilidades
 
 
 <p align="left">
@@ -32,7 +43,7 @@ Having the passion for the creative liberty coding gives me, I now prepare mysel
 </p>
 
 
-### Socials
+### Socials/Sociais
 
 <p align="left"> <a href="https://discord.com/users/Pagotto#6403" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Victorpagotto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/victor-pagotto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
