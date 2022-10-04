@@ -17,7 +17,7 @@ Desenvolvedor Web.
 -------------
 Português
 
-Apaixonado pela liberdade criativa que codar me dá, agora me preparo para ser capaz de desenvolver em full-stack. A lista resumida de ferramentas que conheço e possuo para isso, de forma resumida, é: JavaScript, HTML, CSS, React, Node, SQL e Docker, além de algumas outras ferramentas usadas como complemento, como Jest, Redux, Express e Sequelize.
+Apaixonado pela liberdade criativa que codar me dá, agora me preparo para ser capaz de desenvolver em full-stack. A lista ferramentas que conheço e possuo para isso, de forma resumida, é: JavaScript, HTML, CSS, React, Node, SQL e Docker, além de algumas outras ferramentas usadas como complemento, como Jest, Redux, Express e Sequelize.
 
 * Veja meu portfólio em [Victor Pagotto](http://victorpagotto.github.io/portfolio/)
 * Contatar com [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
