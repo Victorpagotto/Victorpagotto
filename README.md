@@ -3,7 +3,8 @@ Victor Pagotto
 
 Web Developer.
 -------------
-English:
+English
+
 Having the passion for the creative liberty coding gives me, I now prepare myself to become capable of full-stack development. As of known tools for achieving this, in short version, the list goes as: JavaScript, HTML, CSS, React, Node, SQL and Docker, besides some other tools used as complement to those ones, like Jest, Redux, Express and Sequelize.
 
 * See my portfolio at [Victor Pagotto](http://victorpagotto.github.io/portfolio/)
