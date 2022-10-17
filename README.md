@@ -9,7 +9,7 @@ Having the passion for the creative liberty coding gives me, I now prepare mysel
 
 * See my portfolio at [Victor Pagotto](http://victorpagotto.github.io/portfolio/)
 * Contact me at [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
-* Currently working on [My Portfolio](http://victorpagotto.github.io/portfolio/)
+* Currently working on [my portfolio](http://victorpagotto.github.io/portfolio/)
 * Currently learning SOLID.
 * Currently living in Ji-Paraná, RO, Brazil.
 * ⚡ Looking for job opportunities.
