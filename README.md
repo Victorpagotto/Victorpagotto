@@ -10,7 +10,7 @@ Having the passion for the creative liberty coding gives me, I now prepare mysel
 * See my portfolio at [Victor Pagotto](http://victorpagotto.github.io/portfolio/)
 * Contact me at [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
 * Currently working on [My Portfolio](http://victorpagotto.github.io/portfolio/)
-* Currently learning SQL through Node with Sequelize.
+* Currently learning Typescript.
 * Currently living in Ji-Paraná, RO, Brazil.
 * ⚡ Looking for job opportunities.
 
@@ -23,7 +23,7 @@ Apaixonado pela liberdade criativa que codar me dá, agora me preparo para ser c
 * Veja meu portfólio em [Victor Pagotto](http://victorpagotto.github.io/portfolio/)
 * Contatar com [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
 * Atualmente estou trabalhando em [meu portfólio](http://victorpagotto.github.io/portfolio/)
-* Atualmente aprendendo SQL através de Node com Sequelize.
+* Atualmente aprendendo Typescript.
 * Atualmente vivendo em Ji-Paraná, RO, Brasil.
 * ⚡ Procurando por oportunidades de trabalho.
 
