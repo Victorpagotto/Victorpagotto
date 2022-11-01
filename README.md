@@ -7,7 +7,7 @@ English
 
 Having the passion for the creative liberty coding gives me, I now prepare myself to become capable of full-stack development. As of known tools for achieving this, in short version, the list goes as: JavaScript, Typescript, HTML, CSS, React, Node, SQL and Docker, besides some other tools used as complement to those ones, like Jest, Redux, Express and Sequelize.
 
-* See my portfolio at [Victor Pagotto](http://victorpagotto.github.io/portfolio/)
+* See my portfolio at [Victor Pagotto]([http://victorpagotto.github.io/portfolio/](https://victorpagotto.github.io/))
 * Contact me at [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
 * Currently working on [my portfolio](http://victorpagotto.github.io/portfolio/)
 * Currently learning SOLID.
@@ -20,7 +20,7 @@ Português
 
 Apaixonado pela liberdade criativa que codar me dá, agora me preparo para ser capaz de desenvolver em full-stack. A lista ferramentas que conheço e possuo para isso, de forma resumida, é: JavaScript, Typescript, HTML, CSS, React, Node, SQL e Docker, além de algumas outras ferramentas usadas como complemento, como Jest, Redux, Express e Sequelize.
 
-* Veja meu portfólio em [Victor Pagotto](http://victorpagotto.github.io/portfolio/)
+* Veja meu portfólio em [Victor Pagotto]([http://victorpagotto.github.io/portfolio/](https://victorpagotto.github.io/))
 * Contatar com [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
 * Atualmente estou trabalhando em [meu portfólio](http://victorpagotto.github.io/portfolio/)
 * Atualmente aprendendo SOLID.
