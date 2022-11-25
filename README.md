@@ -9,7 +9,7 @@ Having the passion for the creative liberty coding gives me, I now prepare mysel
 
 * See my portfolio at [Victor Pagotto](https://victorpagotto.github.io/)
 * Contact me at [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
-* Currently working on Trybe projects
+* Currently working on [full-stack personal project](https://github.com/Victorpagotto/Post-Transactor)
 * Currently learning SOLID.
 * Currently living in Ji-Paraná, RO, Brazil.
 * ⚡ Looking for job opportunities.
@@ -22,7 +22,7 @@ Apaixonado pela liberdade criativa que codar me dá, agora me preparo para ser c
 
 * Veja meu portfólio em [Victor Pagotto](https://victorpagotto.github.io/)
 * Contatar com [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
-* Atualmente estou trabalhando em projetos Trybe.
+* Atualmente estou trabalhando em [projeto pessoal full-stack](https://github.com/Victorpagotto/Post-Transactor).
 * Atualmente aprendendo SOLID.
 * Atualmente vivendo em Ji-Paraná, RO, Brasil.
 * ⚡ Procurando por oportunidades de trabalho.
