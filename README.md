@@ -9,10 +9,9 @@ Having the passion for the creative liberty coding gives me, I now prepare mysel
 
 * See my portfolio at [Victor Pagotto](https://victorpagotto.github.io/)
 * Contact me at [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
-* Currently working on Trybe project
-* Currently learning SOLID
+* Currently learning Ruby on Rails
 * Currently living in Ji-Paraná, RO, Brazil
-* ⚡ Looking for job opportunities
+* Currently working on CloudWalk
 
 Desenvolvedor Web.
 -------------
@@ -22,10 +21,9 @@ Apaixonado pela liberdade criativa que codar me dá, agora me preparo para ser c
 
 * Veja meu portfólio em [Victor Pagotto](https://victorpagotto.github.io/)
 * Contatar com [victor.pagotto12@gmail.com](mailto:victor.pagotto12@gmail.com)
-* Atualmente estou trabalhando em projeto Trybe.
-* Atualmente aprendendo SOLID.
+* Atualmente aprendendo Ruby on Rails.
 * Atualmente vivendo em Ji-Paraná, RO, Brasil
-* ⚡ Procurando por oportunidades de trabalho
+* Atualmente empregado na CloudWalk
 
 -------------
 ### Skills/Habilidades
