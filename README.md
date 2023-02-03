@@ -46,7 +46,7 @@ Apaixonado pela liberdade criativa que codar me dá, agora me preparo para ser c
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://cassandra.apache.org/_/index.html"_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cassandra-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://cassandra.apache.org/_/index.html"_blank" rel="noreferrer"><img src="https://cassandra.apache.org/img/cassandra_logo.png" width="36" height="36" alt="Figma" /></a>
   
 </p>
 
